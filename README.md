@@ -5,6 +5,10 @@ highlightTheme : "railscasts"
 transition: "concave"
 ---
 
+Video Link: https://youtu.be/Q_YpTh0Qq_k
+
+---
+
 What does it take to own an IP address?!
 
 ---
