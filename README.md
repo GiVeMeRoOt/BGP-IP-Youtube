@@ -121,12 +121,12 @@ Let us see what it might approximately cost us 🤔
 
 --
 
-![src:https://www.arin.net/resources/fees/fee_schedule/#isps](./BGP-IP/IP-cost.png =500x)
+![src:https://www.arin.net/resources/fees/fee_schedule/#isps](./IP-cost.png =500x)
 
 --
 
 And finally, we have an IP address!
-![src: https://giphy.com/gifs/soulpancake-dance-kid-president-3kvYEldEEr0DC](./BGP-IP/excited.webp)
+![src: https://giphy.com/gifs/soulpancake-dance-kid-president-3kvYEldEEr0DC](./excited.webp)
 
 --
 
@@ -164,7 +164,7 @@ We have 4 web applications and we will be using the first 4 IPs for them.
 
 --
 
-![Image1](./BGP-IP/BGP-IP-1.png)
+![Image1](./BGP-IP-1.png)
 
 --
 
@@ -172,7 +172,7 @@ It is now time for us to make new friends and peer with them.
 
 --
 
-![Image2](./BGP-IP/BGP-IP-2.png)
+![Image2](./BGP-IP-2.png)
 
 --
 
@@ -180,7 +180,7 @@ We basically want our IP to be advertised/announced so that other routers know w
 
 --
 
-![Image3](./BGP-IP/BGP-IP-3.png)
+![Image3](./BGP-IP-3.png)
 
 --
 
@@ -192,19 +192,19 @@ Let us look at a simple packet flow when 3.3.3.1 wants to access the application
 
 --
 
-![Image4-1](./BGP-IP/BGP-IP-4-1.png)
+![Image4-1](./BGP-IP-4-1.png)
 
 --
 
-![Image4-2](./BGP-IP/BGP-IP-4-2.png)
+![Image4-2](./BGP-IP-4-2.png)
 
 --
 
-![Image4-3](./BGP-IP/BGP-IP-4-3.png)
+![Image4-3](./BGP-IP-4-3.png)
 
 --
 
-![Image4-4](./BGP-IP/BGP-IP-4-4.png)
+![Image4-4](./BGP-IP-4-4.png)
 
 --
 
@@ -227,4 +227,4 @@ Something nice to play around with!!
 
 ---
 
-![It is a wrap!](./BGP-IP/end.webp =500x)
+![It is a wrap!](./end.webp =500x)
